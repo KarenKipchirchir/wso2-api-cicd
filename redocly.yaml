@@ -2,9 +2,9 @@ extends:
   - recommended
 
 rules:
-  security-defined: off
-  #operation-4xx-response: off
-  operation-2xx-response: off
-  no-server-example-com: off
-  info-license: off
+  security-defined: on
+  operation-4xx-response: on
+  operation-2xx-response: on
+  no-server-example-com: on
+  info-license: on
 
