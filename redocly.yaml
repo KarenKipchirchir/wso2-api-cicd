@@ -3,7 +3,7 @@ extends:
 
 rules:
   security-defined: off
-  operation-4xx-response: off
+  operation-4xx-response: error
   operation-2xx-response: off
   no-server-example-com: off
   info-license: off
